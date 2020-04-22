@@ -1,10 +1,10 @@
 # Site settings
-title: Up Day Day Blog
+title: 天天向上
 SEOTitle: 铁少波的博客 | Up Day Day Blog
 header-img: img/post-bg-mma-0.png
 email: tieshaobo@126.com
 description: "我用双手，成就你的梦想。"
-keyword: "up day day, day day up Blog, 铁少波的博客, tieshaobo, 铁少波, 前端, js"
+keyword: "天天向上, day day up Blog, 铁少波的博客, tieshaobo, 铁少波, 前端, js"
 url: "http://tieshaobo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tieshaobo/tieshaobo.github.io.git" # you code repository
