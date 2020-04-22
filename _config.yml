@@ -1,7 +1,7 @@
 # Site settings
 title: Up Day Day Blog
 SEOTitle: 铁少波的博客 | Up Day Day Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-mma-0.png
 email: tieshaobo@126.com
 description: "我用双手，成就你的梦想。"
 keyword: "up day day, day day up Blog, 铁少波的博客, tieshaobo, 铁少波, 前端, js"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/tieshaobo/tieshaobo.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我用双手，成就你的梦想。"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/photo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
